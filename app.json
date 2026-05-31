@@ -56,6 +56,16 @@
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
       "value": "-1002018556839",
       "required": true
+    },
+    "API_URL": {
+      "description": "Shruti API Base URL",
+      "value": "https://api.shrutibots.site",
+      "required": true
+    },
+    "API_KEY": {
+      "description": "Get this API Key from @SHRUTIAPIBOT",
+      "value": "",
+      "required": true
     }
   },
   "buildpacks": [
